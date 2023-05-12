@@ -1,0 +1,9 @@
+{
+    "name": "diaeai/curl-stream-wrapper",
+    "description": "Curl to PHP stream wrappers.",
+    "autoload": {
+        "psr-4": {
+            "diaeai\\Curl\\": "src/"
+        }
+    }
+}
